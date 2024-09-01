@@ -11,8 +11,8 @@ status of the passengers on the ticket.
 
 | Serial | Version | Time | Artifact | Significant changes | 
 | ------ | ------- | ---- | -------- | ------------------- |
-| 2      | 2.1     | 2021-12-09   | 2.1-SNAPSHOT | Adding Fare and Rake Type |
-| 1      | 2.0     | 2021-12-04   | 2.0-SNAPSHOT | Overhaul to new standards and new enquiry mechanism |
+| 2      | 2.1     | 2023-12-09   | 2.1-SNAPSHOT | Adding Fare and Rake Type |
+| 1      | 2.0     | 2023-12-04   | 2.0-SNAPSHOT | Overhaul to new standards and new enquiry mechanism |
 
 ## Showcase:
 
